@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## to greate matrix and covert to get inverse of the same
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
